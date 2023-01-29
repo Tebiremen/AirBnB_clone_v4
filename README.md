@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Ernest Aiji - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/aijiernest)  
+Ernest Aiji - [Github](https://github.com/Ernyson) / [Twitter](https://twitter.com/aijiernest)  
 Aitebiremen Okojie - [Github](https://github.com/tebiremen) / [Twitter](https://twitter.com/okojietebi)  
   
 ## License
